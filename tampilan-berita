@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="narrow-jumbotron.css" rel="stylesheet">
+  </head>
+
+  <body style="opacity: 1;">
+
+    <div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Bantul Hari ini</h3>
+      </div>
+
+      <div class="jumbotron" style="color: rgb(0, 128, 255);">
+        <h1 class="display-3" style="float: none; text-align: center; font-family: &quot;Lucida Sans Unicode&quot;;">Goa Selarong&nbsp;</h1>
+        <p class="lead"><p style="font-family: &quot;Noto Sans&quot;, sans-serif; text-size-adjust: 100%; background: none 0px 0px repeat scroll rgb(255, 255, 255); border: 0px none; font-size: 16px; margin: 0px 0px 30px; outline: none 0px; padding: 0px; white-space: normal; box-sizing: border-box; line-height: 1.8em; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div style="background-color: rgb(255, 255, 255);">Goa Selarong merupakan sebuah goa kecil yang berada di Dusun Kembangputihan, Kecamatan Pajangan, Bantul. Lokasinya cukup mudah dijangkau karena tak jauh dari Kota Bantul, DIY. Di Goa Selarong, terdapat dua goa, yaitu Goa Kakung dan Goa Putri.Sekilas, tak ada tampilan yang menarik secara visual dari kedua goa tersebut. Namun, goa itu menyimpan peristiwa besar yang menjadi bagian dari sejarah bangsa Indonesia. Terutama kisah kepahlawanan Pangeran Diponegoro yang menjadi tokoh besar saat meletusnya Perang Jawa pada 1825-1830.</div></p></p>
+        <p><a class="btn btn-lg btn-success" href="#" role="button">Read more</a></p>
+      </div>
+
+      <h4 style="float: none; text-align: center;">Wisata Bantul</h4><p style="box-sizing: border-box; margin: 0px 0px 20px; font-size: 16px; color: rgb(85, 85, 85); font-family: &quot;Open Sans&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Bantul, kabupaten di Yogyakarta ini ternyata menyimpan banyak sekali tempat wisata menarik. Beberapa diantaranya menjadi primadona pariwisata Jogja.</p>
+
+      <footer class="footer">
+        
+      </footer>
+
+    </div> <!-- /container -->
+  
+
+</body>
+</html>
